@@ -8,7 +8,7 @@ function addNewTask(){
     else{
         let li = document.createElement("li");
         li.innerHTML = inputText.value;
-        list-container.appendChild(li);
+        list-container.(li);
     }
 
 }
